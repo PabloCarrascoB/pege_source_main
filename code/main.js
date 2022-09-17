@@ -534,14 +534,14 @@ player.onCollide("player", "enemy", (p, e) => {
 	})
 		onKeyPress("f8", () => {
 		add([
-			text("tramposo - 0.5")
+			text("cheater - 0.5")
 			])
 			
 	})
 	
 			onKeyPress("f9", () => {
 		add([
-			text("tramposo - 0.5")
+			text("cheater - 0.5")
 			])
 			
 	})
